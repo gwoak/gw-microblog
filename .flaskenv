@@ -1,10 +1,2 @@
 FLASK_APP=microblog.py
 
-MAIL_SERVER=smtp.gmail.com
-MAIL_PORT=587
-MAIL_USE_TLS=1
-MAIL_USERNAME=gw45160@gmail.com
-MAIL_PASSWORD=2#9OakAv
-
-
-MAIL_DEFAULT_SENDER=gwiese@tpg.com.au
